@@ -6,7 +6,7 @@
 - 减速比
 - 建模注意事项
 2. 程电
-- (各类电路元器件以及电路知识)[https://github.com/Owen-yd-Wang/8015Cheetahbot-Guideline/blob/16461adb7d7aaf744ea16c9c7a374f67c881fe3f/electronic%20and%20coding/Electric%20hardware%20components.md]
+- [各类电路元器件以及电路知识](https://github.com/Owen-yd-Wang/8015Cheetahbot-Guideline/blob/16461adb7d7aaf744ea16c9c7a374f67c881fe3f/electronic%20and%20coding/Electric%20hardware%20components.md)
 - CAN
 - 气动知识
 - 程序概览以及注意事项
