@@ -15,7 +15,3 @@ As the "brain" of the robot, roboRIO is the only command processor in the robot.
 ## Power Distribution Panel (PDP)
 
 PDP is the center power distribution place on the robot. It directly connects to the battery and distributs power to the applicances. On PDP, there're 8 output pairs of 40A continuous current and 8 pairs of 30A continuous current with both 12V DC. There're also 3 pairs of jumpers, which applies for [roboRIO](#1), VRM and PCM (jumpers are indicated). 
-
-
-
-
