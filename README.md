@@ -9,10 +9,12 @@ Welcome to the technical binder of team 8015, here we conclude our experience ga
 - CAN
 - Pneumatics
 - Wiring
+- Encoder
 - Dos and Don'ts
 3. Assembling
 - Dos and Don'ts
 - Testing timetable
-4. Runnin a team
+4. Scouting
+5. Runnin a team
 - 爷不会先不写
-5. Past entrance test papers
+6. Past entrance test papers
