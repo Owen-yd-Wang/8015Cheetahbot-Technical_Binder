@@ -11,7 +11,7 @@ Welcome to the technical binder of team 8015, here we conclude our experience ga
 - Wiring
 - Encoder
 - Dos and Don'ts
-####3. Assembling
+#### 3. Assembling
 - Dos and Don'ts
 - Testing timetable
 #### 4. [Scouting](https://github.com/Owen-yd-Wang/8015Cheetahbot-Technical_Binder/blob/c89f4a5a9a01275010a11cdef1a6c06b5a22be20/Scouting/%E5%AF%B9%E4%BA%8EScouting%E4%B8%8ESocial%E7%9A%84%E7%9C%8B%E6%B3%95%E4%B8%8E%E5%BB%BA%E8%AE%AE.md)
