@@ -10,7 +10,7 @@ Welcome to the technical binder of team 8015, here we conclude our experience ga
 - Pneumatics
 - [Wiring](https://github.com/Owen-yd-Wang/8015Cheetahbot-Technical_Binder/blob/968091cee5e0d688890877493d1e215645fb28bb/electronic%20and%20coding/Wiring.md)
 - Encoder
-- [Code Overview](https://github.com/Owen-yd-Wang/8015Cheetahbot-Technical_Binder/blob/9dfc02f273ea102038a7eadc8576794eeb46f43a/Coding.md)
+- [Code Overview](https://github.com/Owen-yd-Wang/8015Cheetahbot-Technical_Binder/blob/133004049186c9ad1aa16de4e118bd7ef1d1a144/electronic%20and%20coding/Coding.md)
 - Dos and Don'ts
 #### 3. Assembling
 - Dos and Don'ts
