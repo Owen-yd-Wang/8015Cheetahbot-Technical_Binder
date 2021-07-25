@@ -8,7 +8,7 @@ Welcome to the technical binder of team 8015, here we conclude our experience ga
 - [Hardwares](https://github.com/Owen-yd-Wang/8015Cheetahbot-Guideline/blob/16461adb7d7aaf744ea16c9c7a374f67c881fe3f/electronic%20and%20coding/Electric%20hardware%20components.md)
 - CAN
 - Pneumatics
-- Wiring
+- [Wiring](https://github.com/Owen-yd-Wang/8015Cheetahbot-Technical_Binder/blob/968091cee5e0d688890877493d1e215645fb28bb/electronic%20and%20coding/Wiring.md)
 - Encoder
 - Dos and Don'ts
 #### 3. Assembling
